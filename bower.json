@@ -1,0 +1,19 @@
+{
+  "name": "zero.js",
+  "main": "zero.js",
+  "ignore": [],
+  "homepage": "https://github.com/barraponto/zero.js",
+  "authors": [
+    "Viliam Pucik <viliam.pucik@gmail.com>"
+  ],
+  "description": "The world's smallest Javascript library! Zero size, zero functionality.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "front-end",
+    "back-end",
+    "framework"
+  ],
+  "license": "MIT"
+}
